@@ -1,0 +1,27 @@
+=== Rating predictions ===
+Review text: "really amazing product i love it so much absolutely incredible"
+Predicted Rating: 4.288791635538924
+
+Review text: "it was alright not the best but not the worst"
+Predicted Rating: 3.6117650280982696
+
+Review text: "terrible i feel scammed i will return this this should be illegal"
+Predicted Rating: 3.322827593789522
+
+Review text: "worst terrible refund"
+Predicted Rating: 1.9613335605901685
+
+Review text: "terrible"
+Predicted Rating: 2.105726872246696
+
+Review text: "bad"
+Predicted Rating: 3.234424498416051
+
+Review text: "good"
+Predicted Rating: 4.27656800104316
+
+Review text: "perfect"
+Predicted Rating: 4.772528433945757
+
+Review text: "thiswordisnotinthedataset"
+Predicted Rating: None
